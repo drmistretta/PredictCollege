@@ -1,1 +1,4 @@
-Test ReadMe
+The PredictCollege GitHub repository contains Python programs developed by @drmistretta during the analysis of 
+National Longitudinal Study of Adolescent Health database. The programs produce graphs included in the
+peer-reviewed chapter, Data-Driven Insights into Self-Regulated Learning: Predicting College Attendance with
+Personality Traits and Machine Learning.
